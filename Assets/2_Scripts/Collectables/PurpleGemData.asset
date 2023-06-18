@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b98458b7ac0a23c4d97c57e38d1b2918, type: 3}
+  m_Name: PurpleGemData
+  m_EditorClassIdentifier: 
+  gemName: Purple Gem
+  startingPrice: 5
+  gemIcon: {fileID: 21300000, guid: c8895b9051f5b2b448ecd4d2516ca3c9, type: 3}
+  gemModel: {fileID: 5189120104502996739, guid: d1ef516be7e21a840b316f6a408cb904, type: 3}
